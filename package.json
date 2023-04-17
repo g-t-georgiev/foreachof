@@ -1,6 +1,6 @@
 {
 	"name": "@g.t.georgiev/foreachof",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "ForEachOf is a utility function similiar to the idea of Array.prototype.forEach method executing a callback function on each element of an array, but in this case in a flattening manner, so you could have an infinite levels of nesting and it will go through every element, with hierarchical order in mind.",
 	"main": "./src/index.js",
 	"type": "module",
